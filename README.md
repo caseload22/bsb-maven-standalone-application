@@ -4,10 +4,4 @@ Developers will write the code and should include the source code (src), pom.xml
 Devops Engrs will build and deploy this application using Maven
 start
 Added a line to README.md
-Added a second line
-Added a third line
-Added a fourth line
-Added a fifth line
-Added a sixth line
-
-
+Line 2 added
